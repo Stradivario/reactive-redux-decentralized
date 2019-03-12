@@ -1,0 +1,16 @@
+{
+    "ipfs": [
+        {
+            "provider": "https://cloudflare-ipfs.com/ipfs/",
+            "dependencies": [
+                "QmXTnFeQcDQzDrHnePkY1H8eC66LG3fkFG3kDyg7czEKKw"
+            ]
+        }
+    ],
+    "packages": [
+        {
+            "name": "rxjs",
+            "version": "^6.4.0"
+        }
+    ]
+}

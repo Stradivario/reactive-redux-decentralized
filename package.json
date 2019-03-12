@@ -1,0 +1,17 @@
+{
+  "name": "@reactive-redux/rxdi",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.ts",
+  "author": "Kristiyan Tachev",
+  "license": "MIT",
+  "scripts": {
+    "postinstall": "./node_modules/.bin/rxdi i"
+  },
+  "dependencies": {
+    "rxjs": "^6.4.0"
+  },
+  "devDependencies": {
+    "@rxdi/core": "0.0.387"
+  }
+}
